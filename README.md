@@ -37,8 +37,3 @@ This project performs customer segmentation on Amazon users based on their **Ann
 
 ---
 
-## 🧪 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/Amazon-KMeans-Clustering.git
